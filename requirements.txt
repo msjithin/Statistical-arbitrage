@@ -1,0 +1,9 @@
+jupyterlab
+ipylernel
+matplotlib
+numpy
+pandas
+scikit-learn==1.3.2
+statsmodels
+plotly==5.18.0
+seaborn
